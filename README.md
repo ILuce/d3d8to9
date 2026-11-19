@@ -1,6 +1,8 @@
 d3d8to9
 =======
 
+> **This is a fork.** The source of the library is the original's, unchanged; the fork adds a build with llvm-mingw and publishes it. It is maintained by ILuce and is not the original project's release: see [FORK.md](FORK.md). The original is <https://github.com/crosire/d3d8to9>.
+
 [![GitHub Actions Status](https://github.com/crosire/d3d8to9/actions/workflows/build.yml/badge.svg)](https://github.com/crosire/d3d8to9/actions/workflows/build.yml)
 [![AppVeyor Status](https://ci.appveyor.com/api/projects/status/aqupdda60ixgenyd?svg=true)](https://ci.appveyor.com/project/crosire/d3d8to9)
 
